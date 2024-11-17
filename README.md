@@ -1,10 +1,9 @@
-# 👋 Merhaba, Ben Tarik!
-- 🌱 Şu anda **Yapay Zeka ve Backend Geliştirme** üzerinde çalışıyorum.
-- 🔭 İlgi Alanlarım: **Makine Öğrenimi, Derin Öğrenme, MLOps, Veri Mühendisliği**.
-- 💬 Bana şunlarla ilgili soru sorabilirsiniz: **Veri Bilimi, Yapay Zeka, Proje Geliştirme**.
-- 📫 Bana ulaşın: [LinkedIn](https://linkedin.com/in/TarikYil)
+# 👋 Hello, I'm Tarik!
+🌱 Currently working on **Artificial Intelligence and Backend Development**.  
+🔭 My Interests: **Machine Learning, Deep Learning, MLOps, and Data Engineering**.  
+💬 Feel free to ask me about: **Data Science, AI, and Project Development**.  
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammettarikyilmaz).  
 
----
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarikYil&show_icons=true&theme=dark&hide_border=true)
