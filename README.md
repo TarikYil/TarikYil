@@ -48,7 +48,5 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=TarikYil&theme=darkhub&no-frame=true&margin-w=15)
 
 
