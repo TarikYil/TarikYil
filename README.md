@@ -38,10 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TarikYil&show_icons=true&theme=dark&hide_border=true)
-
----
 
 ## 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarikYil&layout=compact&theme=dark&hide_border=true)
