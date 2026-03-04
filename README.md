@@ -4,6 +4,7 @@
 💬 Feel free to ask me about: **Data Science, AI, and Project Development**.  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammettarikyilmaz).  
 
+
 ---
 
 ## 🛠️ Skills and Technologies
