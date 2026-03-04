@@ -42,8 +42,7 @@
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarikYil&layout=compact&theme=dark&cache_seconds=86400)
-
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TarikYil&layout=compact&theme=dark&v=1)
 
 ---
 
